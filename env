@@ -1,0 +1,4 @@
+BOT_TOKEN=your_telegram_bot_token_here
+TARGET_CHAT_ID=-100xxxxxxxxxx
+POLL_INTERVAL=20
+OC_SESSION_COOKIE=orange_carrier_session=abc123xyz; XSRF-TOKEN=abc123...
